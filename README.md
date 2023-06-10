@@ -3,7 +3,7 @@
 This just creates Fake Tokens.
 Good for Grabbing Tokens on YouTube.
 
-**Showcase** ![Some Random Showcase](https://www.youtube.com/watch?v=VOsLdiKc_KM)
+**Showcase** [Some Random Showcase](https://www.youtube.com/watch?v=VOsLdiKc_KM)
 
 ### Why?
 
